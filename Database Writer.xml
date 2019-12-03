@@ -323,7 +323,7 @@ L0dBQiBCVVNJTkVTUyBTRVJWSUNFUw0KWk5NfHx8KDc2MykyNTctODUxMXx8fHx8fHwNCg==</inboun
         <driver>org.postgresql.Driver</driver>
         <url>jdbc:postgresql://localhost:5432/mirthdb</url>
         <username>postgres</username>
-        <password>FaithAlpen7</password>
+        <password>xxxxxxxxx</password>
         <query>INSERT INTO patients (patientid, lastname, firstname, middlename, dateofbirth, gender, address1, address2, city, state, postalcode)
 VALUES (${patientId},${lastName} ,${firstName} ,${middleName} ,${dateOfBirth} ,${gender} ,${address1} ,${address2} ,${city} ,${state} ,${postalCode} )
 
