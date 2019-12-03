@@ -53,7 +53,7 @@
       <driver>org.postgresql.Driver</driver>
       <url>jdbc:postgresql://localhost:5432/mirthdb</url>
       <username>postgres</username>
-      <password>FaithAlpen7</password>
+      <password>xxxxxxxx</password>
       <select>SELECT newpatients.newpatientid AS newpatients_newpatientid, newpatients.lastname AS newpatients_lastname, newpatients.firstname AS newpatients_firstname, newpatients.middlename AS newpatients_middlename, newpatients.gender AS newpatients_gender, newpatients.dateofbirth AS newpatients_dateofbirth, newpatients.ssn AS newpatients_ssn
 FROM newpatients
 WHERE processed = false
